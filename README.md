@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر ليلي وسر الغرام
+> في حضنك ألقى كل السلام
+> نار اشتياقي تذيب القيود
+> حبك بقلبي أغلى إحساس
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
