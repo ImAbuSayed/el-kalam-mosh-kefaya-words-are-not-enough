@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-kalam-mosh-kefaya-words-are-not-enough/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: El Kalam Mosh Kefaya – Words are not enough.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
