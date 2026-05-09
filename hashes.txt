@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Kalam Mosh Kefaya – Words are not enough.
+
+This log tracks the cryptographic history and versioning for the song **El Kalam Mosh Kefaya – Words are not enough.** (el-kalam-mosh-kefaya-words-are-not-enough).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:15:57.198329 | `v1` | `6aa5c3b7f2f16d3753710f1ed6c035b475df701c1b917d053399eb3ae67195e8` | `216e736d60a294ca4731a90525833a62f6870146f27cbb191897278710389346` | `2026-05-09_el-kalam-mosh-kefaya-words-are-not-enough-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
